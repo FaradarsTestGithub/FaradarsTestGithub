@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### This is Faradars Github Account for test
-##### This is Faradars Github Account for test
+#### This is Faradars Github Account for test.
+##### This is Faradars Github Account for test.
 
 <!--
 **FaradarsTestGithub/FaradarsTestGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
